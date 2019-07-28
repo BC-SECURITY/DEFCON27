@@ -10,11 +10,12 @@
 [3]: https://plus.google.com/XXXXXXX
 [4]: http://XXXXXXX.tumblr.com
 [5]: http://dribbble.com/XXXXXXX
-[6]: http://www.github.com/XXXXXXX
+[6]: http://www.github.com/BC-SECURITY
  
  # DEFCON27
 [![alt text][1.1]][1]
-    
+[![alt text][6.1]][6]
+
 ## Hack to Basics – Adapting Exploit Frameworks to Evade Microsoft ATP
 When: 1000-1050
 Where: Recon Village
