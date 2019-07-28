@@ -11,10 +11,13 @@
 [4]: http://XXXXXXX.tumblr.com
 [5]: http://dribbble.com/XXXXXXX
 [6]: http://www.github.com/BC-SECURITY
- 
+[7]: https://www.bc-security.org/blog
+
  # DEFCON27
 [![alt text][1.1]][1]
 [![alt text][6.1]][6]
+
+Keep up-to-date on our blog at [https://www.bc-security.org/blog][7]
 
 ## Hack to Basics – Adapting Exploit Frameworks to Evade Microsoft ATP
 When: 1000-1050
