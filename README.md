@@ -37,3 +37,5 @@ In this workshop we will:
 2. Learn to analyze malware scripts before and after execution
 3. Understand how obfuscate code to avoid AMSI and Windows Defender
 4. Detect and avoid sandbox environments
+
+The Empire files are zipped to help out those who plan on downloading them and don't want Windows to flag it. FYI, the password for the zip is "defcon".
