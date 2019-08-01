@@ -33,7 +33,7 @@ We will go over the methods employed by Microsoft Advanced Threat Protections (A
 When: 1430-1830 
 Where: Flamingo, Red Rock IV
 
-Microsoft is constantly adapting their security to counter new threats. Specifically, the introduction of the Microsoft Antimalware Scripting Interface (AMSI) and its integration with Windows Defender has significantly raised the bar. In this hands-on class, we will learn the methodology behind obfuscating malware and avoiding detection. Students will explore the inner workings of Windows Defender and learn to employ AMSI bypass techniques and obfuscate malware using Visual Basic (VB) and Powershell. Then identify and evade sandbox environments to ensure the payloads are masked when arriving at the intended target. The final capstone will be tying all the concepts together.
+Microsoft is constantly adapting their security to counter new threats. Specifically, the introduction of the Microsoft Antimalware Scan Interface (AMSI) and its integration with Windows Defender has significantly raised the bar. In this hands-on class, we will learn the methodology behind obfuscating malware and avoiding detection. Students will explore the inner workings of Windows Defender and learn to employ AMSI bypass techniques and obfuscate malware using Visual Basic (VB) and Powershell. Then identify and evade sandbox environments to ensure the payloads are masked when arriving at the intended target. The final capstone will be tying all the concepts together.
 
 In this workshop we will:
 1. Introduce AMSI and explain its importance
