@@ -5,7 +5,7 @@ Here you will find all of the resources and setup. Please have these things read
 ## Kali VM Setup
 1. Download **Kali VM** from [offensive-security.com](https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/)
 
-2. Download **Empire** from the dev branch of [BC-Security's fork](https://github.com/BC-SECURITY/Empire)
+2. Download **Empire** from the dev branch of [BC-Security's fork](https://github.com/BC-SECURITY/Empire). We've [made modifications](https://github.com/BC-SECURITY/Empire/pull/1/files) required for the course.
 ```sh
 git clone https://github.com/BC-SECURITY/Empire.git
 cd Empire
