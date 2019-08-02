@@ -42,4 +42,4 @@ In this workshop we will:
 4. Detect and avoid sandbox environments
 
 ### Workshop Resources
-[Workshop Resources](./workshop.md)
+[Workshop Resources](./workshop/workshop.md)
