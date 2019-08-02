@@ -41,4 +41,5 @@ In this workshop we will:
 3. Understand how obfuscate code to avoid AMSI and Windows Defender
 4. Detect and avoid sandbox environments
 
+### Workshop Resources
 [Workshop Resources](./workshop.md)
