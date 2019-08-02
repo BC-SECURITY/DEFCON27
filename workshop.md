@@ -17,11 +17,11 @@ sudo ./setup/reset.sh
 ## Windows 10 VM Setup
 1. Download **Windows 10 VM** from [microsoft.com](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines)
 
-2. Download our sample scripts from [scripts](./scripts). These will be used throughout the workshop.
+2. Download our sample scripts from the [scripts directory](./scripts). These will be used throughout the workshop. Don't extract until after creating an exclusion in the next step.
 
-Note: The .zip is password protected to get passed Windows Defender. The password is: `defcon`
+3. Add an exclusion to Windows Defender to the samples directory. TODO: link to some instructions.
 
-3. Download [Invoke Obfuscation](https://github.com/danielbohannon/Invoke-Obfuscation)
-```
+4. Extract the samples zip to the 
+Note: The .zip is password protected to bypass Windows Defender. The password is: `defcon`
 
-```
+5. Install office 365. TODO link.
