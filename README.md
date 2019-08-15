@@ -20,7 +20,7 @@
 Keep up-to-date on our blog at [https://www.bc-security.org/blog][7]
 
 ## Hack to Basics – Adapting Exploit Frameworks to Evade Microsoft ATP
-When: August 10, 2019 1000-1050
+When: August 10, 2019 1000-1050  
 Where: Recon Village
 
 Many pentesters are avoiding existing frameworks due to security improvements from Microsoft and smarter practices by network Admins. Red teams don’t have to throw away existing tools because their attacks are being thwarted and contrary to belief, Powershell is not dead. We updated existing tools and demonstrated that they can still be used to launch successful attacks. We would want to get back to the basics and demonstrate that successful attacks are still possible by modifying tools like Empire.
@@ -32,7 +32,7 @@ We will go over the methods employed by Microsoft Advanced Threat Protections (A
 * [Slides](./Hack_to_Basics_Adapting_Exploit_Frameworks_to_Evade_Microsoft_ATP.pdf)
 
 ## Introduction to Sandbox Evasion and AMSI Bypasses
-When: August 9, 2019 1430-1830 
+When: August 9, 2019 1430-1830  
 Where: Flamingo, Red Rock IV
 
 Microsoft is constantly adapting their security to counter new threats. Specifically, the introduction of the Microsoft Antimalware Scan Interface (AMSI) and its integration with Windows Defender has significantly raised the bar. In this hands-on class, we will learn the methodology behind obfuscating malware and avoiding detection. Students will explore the inner workings of Windows Defender and learn to employ AMSI bypass techniques and obfuscate malware using Visual Basic (VB) and Powershell. Then identify and evade sandbox environments to ensure the payloads are masked when arriving at the intended target. The final capstone will be tying all the concepts together.
