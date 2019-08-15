@@ -29,7 +29,7 @@ Our pentest used open-source intelligence (OSINT) to learn a ridiculous amount a
 
 We will go over the methods employed by Microsoft Advanced Threat Protections (ATP) in both their antivirus and their sandbox environment, how we enumerated, and characterized their system to avoid detection. In addition, we avoided detection from Darktrace on a commercial network by masking our JA3 signature and weaponized Microsoft Azure for our covert C2 channel. In the end, we were able to launch a successful attack again a large company using Empire and our wits.
 
-[Slides](./Hack_to_Basics_Adapting_Exploit_Frameworks_to_Evade_Microsoft_ATP.pdf)
+* [Slides](./Hack_to_Basics_Adapting_Exploit_Frameworks_to_Evade_Microsoft_ATP.pdf)
 
 ## Introduction to Sandbox Evasion and AMSI Bypasses
 When: August 9, 2019 1430-1830 
@@ -44,5 +44,5 @@ In this workshop we will:
 4. Detect and avoid sandbox environments
 
 ### Workshop Resources
-[Workshop Resources](./workshop/workshop.md)
-[Slides](./Introduction_to_AMSI_Bypasses_and_Sandbox_Evasion.pdf)
+* [Workshop Resources](./workshop/workshop.md)
+* [Slides](./Introduction_to_AMSI_Bypasses_and_Sandbox_Evasion.pdf)
